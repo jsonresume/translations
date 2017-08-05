@@ -1,0 +1,14 @@
+{
+  "name": "translations",
+  "version": "0.0.1",
+  "description": "Allows translations for JSONResume and it's themes",
+  "author": "Daniel Crawford <dmcblue@gmail.com> (http://www.dmcblue.com)",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jsonresume/translations.git"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "i18n": "^0.8.3"
+  }
+}

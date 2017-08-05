@@ -20,7 +20,7 @@ translations.create('path/to/file/fr_CA');
 
 That will create a file **fr_CA.json** that looks like:
 
-```json
+```javascript
 {
   "basics": "", \\fill in these strings with the translation
   "basics.name": "",

@@ -32,7 +32,7 @@ That will create a file **fr_CA.json** that looks like:
 ```
 You can then complete the translation.
 
-##Localization
+## Localization
 
 Localization is done via [i18n](https://github.com/mashpie/i18n-node) package. The translator.factory() method returns a configured i18n object.  You can then use the object according to the i18n documentation.
 
